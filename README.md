@@ -1,1 +1,1 @@
-# loader
+# loaderspinner loader using html and css
